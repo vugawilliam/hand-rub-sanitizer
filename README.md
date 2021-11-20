@@ -1,14 +1,13 @@
-# Preparation formiula for World Health Organization recommended hand-rub-sanitizer.
-This guide is based on the formula that WHO recommends when preparing hand rub Sanitizer of 10 litres volume.
+# This guide is based on the procudures that World Health Organization (WHO) recommends for preparing Standard and quality hand Sanitizer.
+This repo has varous sections to guide step by step
+1. The chemical-requirements.md file
 
+    This file lists out what chemicals are needed and their concentration volumes in percentage(%).
+  
+2. The material-requirements.md file
+    
+    This files lists out the materials (objects/tools) that are to be used during the production.
+  
+3. The images folder.
 
-**Ensure that all materials are clean.**
-
-1. Pour ethanol into a measuring cylinder sure that it is nearly full.
-![alt text](image1.jpg)
-2. Using an alcohol meter measure the alcohol concentration,of alcohol it should be 96%
-![alt text](https://github.com/vugawilliam/hand-rub-sanitizer/blob/main/images/alcoholmeter.JPG)%
-4. after measuring the acohol the aclohol concentration, now measure 8833  ml of ethanol amd pour it in to mixing container or bucket 
-5. measure 417 ml of Hydrogen peroxide  its labelled and poure it in to the mixing container or bucket tha already containing the enthanol.
-6. measure 145 ml of Glycerol and pour it in to the bucket, now containing ethanol and haydrogrn peroxide as Glycenol is stricky and some little distilled water to remove its strickness
-
+   This folder containers images that accompany the guide.
