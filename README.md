@@ -1,5 +1,5 @@
 # This guide is based on the procudures that World Health Organization (WHO) recommends for preparing Standard and quality hand Sanitizer of 10 litres capacity.
-This repo has various sections to guide step by step
+This repo has various sections that will guide step by step throught the preparation process.
 
 
 1. The *chemical-requirements.md* file.
