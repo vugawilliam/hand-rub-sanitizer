@@ -4,7 +4,7 @@ This guide is based on the formula that WHO recommends when preparing hand rub S
 
 **Ensure that all materials are clean.**
 
-1. Pour ethanol into a measuring cylinder.
+1. Pour ethanol into a measuring cylinder sure that it is nearly full.
 
 2. Using an alcohol meter 
 
