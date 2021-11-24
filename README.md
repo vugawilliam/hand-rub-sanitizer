@@ -17,5 +17,4 @@ This repo has various sections that will guide step by step throught the prepara
    
 4. The *procedure-guide-step-by-step.md* file.
 
-
-        This is the main guide where all procedures are written out in. 
+    This is the main guide where all procedures are written out in. 
